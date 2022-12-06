@@ -1,0 +1,13 @@
+.mensaje{
+    background-color: bisque;
+    min-height: 5rem;
+
+}
+
+.numero{
+    background-color: antiquewhite;
+}
+
+.numero * {
+    margin-top: 1rem;
+}
